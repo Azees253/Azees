@@ -87,6 +87,8 @@
   }
   .navbar-log {
     font-size: 20px;
+    position: absolute;
+    left: 30px;
   }
   .nav-links {
     display: inline-block;
