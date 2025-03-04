@@ -74,4 +74,25 @@ section {
   .sub-title {
     font-size: 35px;
   }
+  .services-list div {
+    padding: 20px;
+    font-size: 10px;
+  }
+  .services-list div i {
+    font-size: 30px;
+  }
+  .container {
+    padding: 80px;
+  }
+  .services-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(159px, 1fr));
+  }
+  .read {
+    padding: 5px 15px;
+    letter-spacing: 0px;
+  }
+  .services-list div a {
+    font-size: 10px;
+  }
 }

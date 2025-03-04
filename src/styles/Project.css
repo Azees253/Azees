@@ -58,7 +58,6 @@
   text-decoration: none;
 }
 .layer i {
-  color: #ff004f;
   margin-top: 20px;
   font-size: 20px;
   background: #000;
@@ -80,5 +79,20 @@
   .main-text h2 {
     font-size: 30px;
     line-height: 1;
+  }
+  .portfolio-content {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(129px, auto));
+  }
+  .layer h5 {
+    font-size: 15px;
+  }
+  .layer p {
+    font-size: 0.7rem;
+  }
+  .layer i {
+    font-size: 10px;
+    width: 30px;
+    height: 30px;
   }
 }
