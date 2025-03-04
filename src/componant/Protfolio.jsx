@@ -20,7 +20,7 @@ export default function Protfolio() {
         <div className="services" id="services">
           <div className="container">
             <h1 className="sub-title">
-              My <span>Services</span>
+              My<span>Services</span>
             </h1>
             <div className="services-list">
               <div>
@@ -83,7 +83,7 @@ export default function Protfolio() {
         <div className="protfolio" id="protfolio">
           <div className="main-text" id="project">
             <h2>
-              Latest <span>Project</span>
+              Latest<span>Project</span>
             </h2>
             <div className="portfolio-content">
               <div className="row">
