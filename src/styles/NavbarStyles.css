@@ -7,7 +7,7 @@
   z-index: 100;
   border-radius: 10px;
   background-color: black;
-  color: #fff;
+  color: #0ef;
   position: fixed;
   width: 100%;
 }
@@ -17,6 +17,7 @@
 }
 .menu-icon {
   display: none;
+  color: #fff;
   z-index: 2;
 }
 .nav-menu {

@@ -9,7 +9,7 @@ export const Navbarlinks = [
     title: "About",
     url: "/about",
     cName: "nav-links",
-    icon: "fa-solid fa-shirt",
+    icon: "fa-solid fa-circle-info",
   },
   {
     title: "Skill",
@@ -21,7 +21,7 @@ export const Navbarlinks = [
     title: "My Projects",
     url: "/protfolio",
     cName: "nav-links",
-    icon: "fa-solid fa-address-book",
+    icon: "fa-solid fa-diagram-project",
   },
   {
     title: "Contact",

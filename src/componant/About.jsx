@@ -6,6 +6,7 @@ import "../styles/Project.css";
 import "../styles/Protfolio.css";
 import "../styles/Contact.css";
 import azees2 from "../assets/aji4.jpeg";
+import resume from "../assets/Azees.pdf";
 
 export default function About() {
   return (
@@ -29,7 +30,7 @@ export default function About() {
             technology can shape user experiences, and I want to develop the
             skills to bring ideas to life on the web.
           </p>
-          <a href="#" className="btn-box1">
+          <a href={resume} className="btn-box1">
             My Resume
           </a>
         </div>

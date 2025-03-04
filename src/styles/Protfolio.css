@@ -233,3 +233,10 @@
   animation: showText 0.5s 1s linear forwards;
   opacity: 0;
 }
+@media screen and (max-width: 800px) {
+  .sub-title {
+    display: inline-block;
+    margin-top: 50px;
+    margin-left: 35%;
+  }
+}

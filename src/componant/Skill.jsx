@@ -16,7 +16,7 @@ export default function Skill() {
       <div>
         <Navbar />
       </div>
-      <h1 class="sub-title">
+      <h1 className="sub-title">
         My <span>Skills</span>
       </h1>
       <section>

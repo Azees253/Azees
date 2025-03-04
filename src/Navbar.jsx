@@ -22,7 +22,7 @@ export default function Navbar() {
             return (
               <li key={index}>
                 <Link to={item.url} className={item.cName}>
-                  <i className={item.icon}></i>
+                  <i className={item.icon} style={{ color: "#0ef" }}></i>
                   {item.title}
                 </Link>
               </li>

@@ -9,6 +9,7 @@ import azees2 from "../assets/aji4.jpeg";
 import ecm from "../assets/ecm.png";
 import { useEffect } from "react";
 import Typed from "typed.js";
+import resume from "../assets/Azees.pdf";
 
 export default function Home() {
   useEffect(() => {
@@ -40,16 +41,16 @@ export default function Home() {
             website and React Native application
           </p>
           <div className="home-sci">
-            <a href="" style={{ i: 6 }}>
+            <a href="https://wa.link/tql3u1" style={{ i: 6 }}>
               <i class="fa-brands fa-whatsapp"></i>
             </a>
-            <a href="">
+            <a href="https://www.instagram.com/azees706/?hl=en">
               <i class="fa-brands fa-instagram"></i>
             </a>
-            <a href="">
+            <a href="https://www.linkedin.com/in/azees253/">
               <i class="fa-brands fa-linkedin-in"></i>
             </a>
-            <a href="">
+            <a href="https://github.com/Azees253">
               <i class="fa-brands fa-github"></i>
             </a>
           </div>
@@ -77,7 +78,7 @@ export default function Home() {
             technology can shape user experiences, and I want to develop the
             skills to bring ideas to life on the web.
           </p>
-          <a href="#" className="btn-box1">
+          <a href={resume} className="btn-box1">
             My Resume
           </a>
         </div>
@@ -327,17 +328,17 @@ export default function Home() {
             veritatis est!
           </p>
           <div className="contact-icons">
-            <a href="">
-              <i class="fa-brands fa-instagram"></i>
+            <a href="https://www.linkedin.com/in/azees253/">
+              <i class="fa-brands fa-linkedin-in"></i>
             </a>
             <a href="https://wa.link/tql3u1">
               <i class="fa-brands fa-whatsapp"></i>
             </a>
-            <a href="">
+            <a href="https://www.instagram.com/azees706/?hl=en">
               <i class="fa-brands fa-instagram"></i>
             </a>
-            <a href="">
-              <i class="fa-brands fa-instagram"></i>
+            <a href="https://github.com/Azees253">
+              <i class="fa-brands fa-github"></i>
             </a>
           </div>
         </div>
