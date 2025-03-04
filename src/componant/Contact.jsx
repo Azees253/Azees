@@ -23,17 +23,17 @@ export default function Contact() {
             veritatis est!
           </p>
           <div className="contact-icons">
-            <a href="">
-              <i class="fa-brands fa-instagram"></i>
+            <a href="https://www.linkedin.com/in/azees253/">
+              <i class="fa-brands fa-linkedin-in"></i>
             </a>
             <a href="https://wa.link/tql3u1">
               <i class="fa-brands fa-whatsapp"></i>
             </a>
-            <a href="">
+            <a href="https://www.instagram.com/azees706/?hl=en">
               <i class="fa-brands fa-instagram"></i>
             </a>
-            <a href="">
-              <i class="fa-brands fa-instagram"></i>
+            <a href="https://github.com/Azees253">
+              <i class="fa-brands fa-github"></i>
             </a>
           </div>
         </div>
