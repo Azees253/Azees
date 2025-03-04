@@ -11,7 +11,7 @@
 }
 .portfolio-content {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(259px, auto));
+  grid-template-columns: repeat(auto-fit, minmax(259px, 1fr));
 }
 .row {
   position: relative;
@@ -82,7 +82,7 @@
   }
   .portfolio-content {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(126px, auto));
+    grid-template-columns: repeat(auto-fit, minmax(159px, 1fr));
   }
   .layer h5 {
     font-size: 5px;
