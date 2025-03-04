@@ -86,14 +86,14 @@
   }
   .portfolio-content {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(163px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
   }
   .layer h5 {
-    font-size: 5px;
-    margin-bottom: 0px;
+    font-size: 15px;
+    margin-bottom: 5px;
   }
   .layer p {
-    font-size: 5px;
+    font-size: 11px;
   }
   .layer i {
     font-size: 10px;
