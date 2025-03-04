@@ -80,6 +80,10 @@
     font-size: 20px;
     line-height: 1;
   }
+  .protfolio {
+    display: inline-block;
+    margin-left: -50px;
+  }
   .portfolio-content {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(150px, 0.2fr));
