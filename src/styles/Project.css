@@ -82,7 +82,7 @@
   }
   .portfolio-content {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, auto));
+    grid-template-columns: repeat(auto-fit, minmax(130px, auto));
   }
   .layer h5 {
     font-size: 10px;
