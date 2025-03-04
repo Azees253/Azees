@@ -82,11 +82,11 @@
   }
   .protfolio {
     display: inline-block;
-    margin-left: -80px;
+    margin-left: -100px;
   }
   .portfolio-content {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(163px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
   }
   .layer h5 {
     font-size: 13px;
